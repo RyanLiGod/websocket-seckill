@@ -1,12 +1,27 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
+  
+	"name": "seckill",
+ 
+ 	"version": "0.0.1",
+ 
+ 	"private": true,
+ 
+ 	"scripts": {
     "start": "node app.js"
   },
-  "dependencies": {
-    "express": "3.20.2",
-    "jade": "*"
-  }
+ 
+ 	"dependencies": 
+	{
+    
+		"express": "3.20.2",
+
+  		"jade": "1.9.2"
+,
+		"ejs": "2.3.1",
+
+		"node-schedule": "0.2.6",
+
+		"socket.io": "1.3.5"
+	}
+
 }

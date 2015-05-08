@@ -1,2 +1,4 @@
 # JetBrains series config files such as WebStorm and PhpStorm
 .idea
+
+node_modules
