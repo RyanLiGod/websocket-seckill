@@ -3,8 +3,8 @@ module.exports = WebSocket;
 function WebSocket(server) {
   //配置秒杀
   var seckillConfig = {
-    startTime: '2015-05-02 23:23:00',
-    total: 5
+    startTime: '2015-05-18 21:31:00',
+    total: 10
   };
 //开始时间
   var startTime = new Date(seckillConfig.startTime);
