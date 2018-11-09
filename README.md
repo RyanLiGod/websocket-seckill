@@ -1,2 +1,2 @@
-# myAPP
-测试学习所用
+# websocket-seckill
+一个用 websocket 实现的 web 抢票功能。
